@@ -1,5 +1,4 @@
-# CV Junior Front End Developer 
-## Pavel Leskavets 
+# CV Junior Front End Developer Pavel Leskavets 
 ### Contacts: 
 + Minsk, Belarus
 + Phone: +375 (33) 692 40 25
