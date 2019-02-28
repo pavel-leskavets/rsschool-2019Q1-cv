@@ -1,5 +1,5 @@
 # CV Junior Front End Developer
-## Pavel Leskavets    
+## Pavel Leskavets
 ### Contacts:
 + Minsk, Belarus
 + Phone: +375 (33) 692 40 25
@@ -24,4 +24,4 @@ HTML/CSS [achievements](https://www.codecademy.com/users/leskovecpavel7181454510
 ### Education:
 + BSUIR, Medical Electronics, 2017 
 ### Additional Information:
-*Professional interests*: Currently I’m working to improve my level of English   
++ *Professional interests*: Currently I’m working to improve my level of English   
