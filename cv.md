@@ -7,9 +7,7 @@
 + Mail: leskovecpavel7@gmail.com
 + LindedIn: [pavel_leskavets](https://www.linkedin.com/in/павел-лесковец-9465bb170/)
 ### Summary:
-
 I believe that i can be an asset to your company because i have  that i have an understanding of the basic skills of javascript. i have a interest for programming which i have  discover  through times self-study and i would like to develop my skills in a professional environment.
-
 ### Skills:
 + *English Proficiency*: pre-Intermediate A2 (reading and understanding of technical documentation)
 + *Language*: JavaScript 
