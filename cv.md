@@ -15,4 +15,7 @@ I believe that i can be an asset to your company because i have  that i have an 
 + *Other technologies*: HTML/HTML5, CSS/CSS3 
 + *Frameworks*: React 
 + *System of version manage*: GitHub 
-+ *Software and Tools*: VSCode, Brackets(+plugins), Photoshop, Avocode 
++ *Software and Tools*: VSCode, Brackets(+plugins), Photoshop, Avocode
+### Code examples:
++ [clicker](https://github.com/pavel-leskavets/react-app)
++ [js-basic](https://github.com/pavel-leskavets/forAlex) 
