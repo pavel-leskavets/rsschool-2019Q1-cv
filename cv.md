@@ -10,7 +10,7 @@
 
 I believe that i can be an asset to your company because i have  that i have an understanding of the basic skills of javascript. i have a interest for programming which i have  discover  through times self-study and i would like to develop my skills in a professional environment.
 
- ### Skills:
+### Skills:
 + *English Proficiency*: pre-Intermediate A2 (reading and understanding of technical documentation)
 + *Language*: JavaScript 
 + *Other technologies*: HTML/HTML5, CSS/CSS3 
