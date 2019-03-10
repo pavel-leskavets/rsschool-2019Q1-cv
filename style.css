@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+body {
+    max-width: 1024px;
+    margin: 30px auto;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    font-family: "Lato";    
+}
+header {
+    display: flex;
+    justify-content: space-around;
+}
+.header-img {
+    position: relative;    
+    width: 35px;
+    height: 35px;
+    margin-right: 7px;
+    z-index: 1;
+}
+.header-img:hover {
+    z-index: 2;
+    transform: scale(1.2);
+    transition: all 0.3s ease 0s;
+}
+.main-info h3 {
+    font-size: 22px;
+}
+.main-info p, ul {
+    font-size: 18px; 
+}
+footer {
+    font-size: 20px;
+    margin-top: 30px;
+}
+footer a{
+    text-decoration: none;
+    color: black;
+}
