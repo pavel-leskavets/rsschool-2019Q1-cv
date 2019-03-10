@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
 body {
     max-width: 1024px;
     margin: 30px auto;
     padding: 0;
     border: 0;
-    text-decoration: none;    
+    text-decoration: none;
+    font-family: "Lato";    
 }
 header {
     display: flex;
