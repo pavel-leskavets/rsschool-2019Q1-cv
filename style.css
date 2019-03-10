@@ -21,3 +21,17 @@ header {
     transform: scale(1.2);
     transition: all 0.3s ease 0s;
 }
+.main-info h3 {
+    font-size: 22px;
+}
+.main-info p, ul {
+    font-size: 18px; 
+}
+footer {
+    font-size: 20px;
+    margin-top: 30px;
+}
+footer a{
+    text-decoration: none;
+    color: black;
+}
